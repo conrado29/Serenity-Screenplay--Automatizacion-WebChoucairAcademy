@@ -1,0 +1,10 @@
+
+‰
+java:S1192	"gDefine a constant instead of duplicating this literal "button that shows us the form to login" 4 times.(¥ºÄ“úÿÿÿÿ8’áÍ¥ª.
+a
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8äïÌã©.
+g	java:S103"KSplit this 144 characters long line (which is greater than 120 authorized).(äÆÃ‡8öì‰–±.
+g	java:S103"KSplit this 140 characters long line (which is greater than 120 authorized).(¸§¨±8Â‡–±.
+l	java:S103	"KSplit this 191 characters long line (which is greater than 120 authorized).(¥ºÄ“úÿÿÿÿ8Ç¼­–±.
+p	java:S101"[Rename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]{2}[a-zA-Z0-9]+$'.(Á÷Š•
+g	java:S103"KSplit this 181 characters long line (which is greater than 120 authorized).(ÊÃÅ§8’áÍ¥ª.

@@ -1,0 +1,24 @@
+
+gjavascript:S3403,"KRemove this "===" check; it will always be false. Did you mean to use "=="?(Ÿ≈å“
+gjavascript:S3403+"KRemove this "===" check; it will always be false. Did you mean to use "=="?(‡ˇÊÎ
+âjavascript:S2583+"mChange this condition so that it does not always evaluate to "false"; some subsequent code is never executed.(‡ˇÊÎ
+âjavascript:S2583,"mChange this condition so that it does not always evaluate to "false"; some subsequent code is never executed.(Ÿ≈å“
+pjavascript:S1117”"S"vars" hides or potentially hides a variable declared in an outer scope at line 16.(∂û˘⁄
+sjavascript:S1117∂"Q"i" hides or potentially hides a variable declared in an outer scope at line 371.(§Ù€Œ˚ˇˇˇˇ
+rjavascript:S1117°"U"slider" hides or potentially hides a variable declared in an outer scope at line 27.(ÑÔóÎ
+wjavascript:S1117˘"U"slider" hides or potentially hides a variable declared in an outer scope at line 27.(‘íŒïˇˇˇˇˇ
+sjavascript:S1117ÿ"Q"i" hides or potentially hides a variable declared in an outer scope at line 146.(ùﬂπå˛ˇˇˇˇ
+njavascript:S1117“"Q"i" hides or potentially hides a variable declared in an outer scope at line 146.(µŒ˝è
+tjavascript:S1117°"W"settings" hides or potentially hides a variable declared in an outer scope at line 13.(ÑÔóÎ
+pjavascript:S1117°"S"kids" hides or potentially hides a variable declared in an outer scope at line 31.(ÑÔóÎ
+qjavascript:S1117!"U"child" hides or potentially hides a variable declared in an outer scope at line 149.(ﬂƒªü
+|javascript:S1117∂"Z"totalBoxes" hides or potentially hides a variable declared in an outer scope at line 374.(§Ù€Œ˚ˇˇˇˇ
+rjavascript:S1117”"U"slider" hides or potentially hides a variable declared in an outer scope at line 27.(∂û˘⁄
+ujavascript:S1117˘"S"vars" hides or potentially hides a variable declared in an outer scope at line 16.(‘íŒïˇˇˇˇˇ
+sjavascript:S1117^"W"settings" hides or potentially hides a variable declared in an outer scope at line 13.(®ÍØ‘
+ujavascript:S1117£"S"vars" hides or potentially hides a variable declared in an outer scope at line 16.(Õ¨û¿ˇˇˇˇˇ
+sjavascript:S1117Û"Q"i" hides or potentially hides a variable declared in an outer scope at line 146.(»ç÷ß˝ˇˇˇˇ
+tjavascript:S1117”"W"settings" hides or potentially hides a variable declared in an outer scope at line 13.(∂û˘⁄
+yjavascript:S1117˘"W"settings" hides or potentially hides a variable declared in an outer scope at line 13.(‘íŒïˇˇˇˇˇ
+Yjavascript:S1854+"=Remove this useless assignment to local variable "childWidth"(‡ˇÊÎ
+Zjavascript:S1854,">Remove this useless assignment to local variable "childHeight"(Ÿ≈å“

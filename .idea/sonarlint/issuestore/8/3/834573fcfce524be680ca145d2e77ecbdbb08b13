@@ -1,0 +1,8 @@
+
+ijavascript:S2589©"LRefactor this code so that this expression does not always evaluate to true.(˜óÙ“
+fjavascript:S2814¡"DRename "dc" as this name is already used in declaration at line 130.(Âþñàýÿÿÿÿ
+fjavascript:S2814ª"DRename "dc" as this name is already used in declaration at line 130.(Âþñàýÿÿÿÿ
+^javascript:UnusedVariable†"3Remove the declaration of the unused 'gd' variable.(±Öô¤øÿÿÿÿ
+_javascript:UnusedVariable]"5Remove the declaration of the unused 'dctx' variable.(úñà¬þÿÿÿÿ
+Xjavascript:S1854]"7Remove this useless assignment to local variable "dctx"(úñà¬þÿÿÿÿ
+Wjavascript:S1854†"5Remove this useless assignment to local variable "gd"(±Öô¤øÿÿÿÿ

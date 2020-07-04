@@ -1,0 +1,41 @@
+
+ijavascript:S2259è"LTypeError can be thrown as "daTickInterval" might be null or undefined here.(†Ôä÷
+cjavascript:S2814â"FRename "mend" as this name is already used in declaration at line 558.(Ë‡œâ
+ejavascript:S2814"CRename "l" as this name is already used in declaration at line 255.(¨Òùÿÿÿÿ
+cjavascript:S2814Û"FRename "intv" as this name is already used in declaration at line 545.(¿²ïù
+ejavascript:S2814¶"CRename "t" as this name is already used in declaration at line 387.(¤–ñ‡ÿÿÿÿÿ
+ejavascript:S2814Ê"CRename "t" as this name is already used in declaration at line 387.(Çšœ‘üÿÿÿÿ
+gjavascript:S2814È"ERename "min" as this name is already used in declaration at line 332.(éå¹æûÿÿÿÿ
+ejavascript:S2814ÿ"CRename "j" as this name is already used in declaration at line 204.(¨Òùÿÿÿÿ
+ejavascript:S2814"CRename "j" as this name is already used in declaration at line 204.(¨Òùÿÿÿÿ
+`javascript:S2814²"CRename "i" as this name is already used in declaration at line 334.(Œ­³´
+`javascript:S2814‡"CRename "i" as this name is already used in declaration at line 334.(‚ãº—
+`javascript:S2814¼"CRename "i" as this name is already used in declaration at line 334.(‚ãº—
+`javascript:S2814ì"CRename "i" as this name is already used in declaration at line 334.(‚ãº—
+ejavascript:S2814Ç"CRename "i" as this name is already used in declaration at line 334.(Æ”‰«üÿÿÿÿ
+ejavascript:S2814á"HRename "mstart" as this name is already used in declaration at line 554.(Šùï£
+ajavascript:S2814"DRename "bd" as this name is already used in declaration at line 254.(´ßü¬
+bjavascript:UnusedVariable¤"<Remove the declaration of the unused 'optNumTicks' variable.(Ú–«Ù
+^javascript:UnusedVariableË"9Remove the declaration of the unused 'interval' variable.(äÎ´_
+^javascript:UnusedVariableÉ"3Remove the declaration of the unused 'iv' variable.(ë¯Ü¬úÿÿÿÿ
+gjavascript:UnusedVariable{"=Remove the declaration of the unused 'daysInMonths' variable.(‰»Ïîıÿÿÿÿ
+`javascript:UnusedVariableÍ"5Remove the declaration of the unused 'pos2' variable.(„ıí¿şÿÿÿÿ
+`javascript:UnusedVariableÍ"5Remove the declaration of the unused 'pos1' variable.(„ıí¿şÿÿÿÿ
+kjavascript:UnusedVariable"ERemove the declaration of the unused 'niceMonthlyIntervals' variable.(·…×
+bjavascript:UnusedVariableç"=Remove the declaration of the unused 'tickInterval' variable.(ãû“]
+ajavascript:UnusedVariable¢"6Remove the declaration of the unused 'tempn' variable.(Êú¨øÿÿÿÿ
+\javascript:UnusedVariable¡"6Remove the declaration of the unused 'tempf' variable.(—œüø
+`javascript:S1854{"?Remove this useless assignment to local variable "daysInMonths"(‰»Ïîıÿÿÿÿ
+Wjavascript:S1854°"5Remove this useless assignment to local variable "db"(Åà¤¿ûÿÿÿÿ
+Zjavascript:S1854®"8Remove this useless assignment to local variable "stats"(ßàºŒûÿÿÿÿ
+Xjavascript:S1854®"6Remove this useless assignment to local variable "sum"(ßàºŒûÿÿÿÿ
+Vjavascript:S1854®"4Remove this useless assignment to local variable "s"(ßàºŒûÿÿÿÿ
+Vjavascript:S1854®"4Remove this useless assignment to local variable "d"(ßàºŒûÿÿÿÿ
+Wjavascript:S1854®"5Remove this useless assignment to local variable "pd"(ßàºŒûÿÿÿÿ
+Wjavascript:S1854®"5Remove this useless assignment to local variable "sd"(ßàºŒûÿÿÿÿ
+Zjavascript:S1854ù"8Remove this useless assignment to local variable "range"(Èƒ©˜ıÿÿÿÿ
+Wjavascript:S1854É"5Remove this useless assignment to local variable "iv"(ë¯Ü¬úÿÿÿÿ
+Ujavascript:S1854Ä"8Remove this useless assignment to local variable "ticks"(‹…£ 
+[javascript:S1854¤">Remove this useless assignment to local variable "optNumTicks"(Ú–«Ù
+[javascript:S1854ç"?Remove this useless assignment to local variable "tickInterval"(ãû“]
+Ujavascript:S1854á"8Remove this useless assignment to local variable "ticks"(™İû½

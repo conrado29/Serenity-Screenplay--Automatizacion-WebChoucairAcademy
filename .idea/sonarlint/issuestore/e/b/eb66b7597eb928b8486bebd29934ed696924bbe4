@@ -1,0 +1,35 @@
+
+bjavascript:S2259µ"ETypeError can be thrown as "options" might be null or undefined here.(›‡¢©
+~javascript:S4165¤"aReview this useless assignment: "adj" already holds the assigned value along all execution paths.(ãÄğ¸
+javascript:S2583ş"mChange this condition so that it does not always evaluate to "false"; some subsequent code is never executed.(º¿ç‰ùÿÿÿÿ
+javascript:S2583â"lChange this condition so that it does not always evaluate to "true"; some subsequent code is never executed.(§óßœúÿÿÿÿ
+javascript:S2583Ø"mChange this condition so that it does not always evaluate to "false"; some subsequent code is never executed.(º¿ç‰ùÿÿÿÿ
+ijavascript:S2589µ"LRefactor this code so that this expression does not always evaluate to true.(¶¼—
+`javascript:S2814£"CRename "i" as this name is already used in declaration at line 261.(¿¥î
+_javascript:S2814õ"CRename "i" as this name is already used in declaration at line 239.(ˆªÏ
+ejavascript:S2814¸"CRename "i" as this name is already used in declaration at line 179.(“¶üÿÿÿÿ
+ejavascript:S2814¾"CRename "i" as this name is already used in declaration at line 179.(ÑÆşÉøÿÿÿÿ
+_javascript:S2814á"CRename "i" as this name is already used in declaration at line 219.(ˆªÏ
+`javascript:S2814Â"CRename "i" as this name is already used in declaration at line 301.(Ãˆ•°
+`javascript:S2814Ç"CRename "i" as this name is already used in declaration at line 301.(Ãˆ•°
+`javascript:S2814â"CRename "y" as this name is already used in declaration at line 412.(²ñ«Ç
+`javascript:S2814á"CRename "x" as this name is already used in declaration at line 412.(Åó’™
+ejavascript:S2814È"CRename "v" as this name is already used in declaration at line 417.(…¶µùÿÿÿÿ
+sjavascript:S1117"Q"y" hides or potentially hides a variable declared in an outer scope at line 412.(‡­¶øÿÿÿÿ
+njavascript:S1117–"Q"i" hides or potentially hides a variable declared in an outer scope at line 261.(¸»Û˜
+njavascript:S1117—"Q"y" hides or potentially hides a variable declared in an outer scope at line 412.(ú‹ßå
+bjavascript:UnusedVariableŞ"7Remove the declaration of the unused 'shadow' variable.(ˆ‡åÊùÿÿÿÿ
+]javascript:UnusedVariable©"7Remove the declaration of the unused 'legend' variable.(µ±®
+[javascript:UnusedVariableà"5Remove the declaration of the unused 'fill' variable.(ŒòºÁ
+_javascript:UnusedVariableß"9Remove the declaration of the unused 'showLine' variable.(öë¹
+`javascript:UnusedVariable "5Remove the declaration of the unused 'hctx' variable.(Óî´áşÿÿÿÿ
+`javascript:UnusedVariableß"5Remove the declaration of the unused 'fact' variable.(†€ÕÈúÿÿÿÿ
+Vjavascript:S1854œ"4Remove this useless assignment to local variable "y"(‘Å€µşÿÿÿÿ
+Vjavascript:S1854œ"4Remove this useless assignment to local variable "x"(‘Å€µşÿÿÿÿ
+[javascript:S1854Ş"9Remove this useless assignment to local variable "shadow"(ˆ‡åÊùÿÿÿÿ
+Tjavascript:S1854à"7Remove this useless assignment to local variable "fill"(ŒòºÁ
+Xjavascript:S1854ß";Remove this useless assignment to local variable "showLine"(öë¹
+Yjavascript:S1854ß"7Remove this useless assignment to local variable "fact"(†€ÕÈúÿÿÿÿ
+Xjavascript:S1854†"6Remove this useless assignment to local variable "pad"(”›Ü–øÿÿÿÿ
+Vjavascript:S1854©"9Remove this useless assignment to local variable "legend"(µ±®
+Yjavascript:S1854 "7Remove this useless assignment to local variable "hctx"(Óî´áşÿÿÿÿ

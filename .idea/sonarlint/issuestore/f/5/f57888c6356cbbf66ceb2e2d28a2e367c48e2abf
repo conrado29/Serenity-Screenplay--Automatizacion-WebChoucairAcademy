@@ -1,0 +1,26 @@
+
+gjavascript:S2814Õ"ERename "ctx" as this name is already used in declaration at line 303.(•àåÙþÿÿÿÿ
+ejavascript:S2814Í"CRename "i" as this name is already used in declaration at line 171.(ÑÆþÉøÿÿÿÿ
+ejavascript:S2814ƒ"CRename "i" as this name is already used in declaration at line 249.(íÈ—Çÿÿÿÿÿ
+fjavascript:S2814½"DRename "gd" as this name is already used in declaration at line 303.(¦Âªúüÿÿÿÿ
+ejavascript:S2814¤"CRename "i" as this name is already used in declaration at line 282.(íÈ—Çÿÿÿÿÿ
+bjavascript:UnusedVariable´"7Remove the declaration of the unused 'shadow' variable.(ˆ‡åÊùÿÿÿÿ
+_javascript:UnusedVariable½"4Remove the declaration of the unused 'dim' variable.(¸ÍñÇúÿÿÿÿ
+^javascript:UnusedVariable#"9Remove the declaration of the unused 'arrayMin' variable.(çù´ª
+`javascript:UnusedVariableÖ"5Remove the declaration of the unused 'hctx' variable.(¬´Ð¥ýÿÿÿÿ
+`javascript:UnusedVariableå"5Remove the declaration of the unused 'sidx' variable.(¬ž«åüÿÿÿÿ
+^javascript:UnusedVariableº"3Remove the declaration of the unused 'el' variable.(üðÎÙøÿÿÿÿ
+Wjavascript:S1854#";Remove this useless assignment to local variable "arrayMin"(çù´ª
+[javascript:S1854´"9Remove this useless assignment to local variable "shadow"(ˆ‡åÊùÿÿÿÿ
+Sjavascript:S1854À"7Remove this useless assignment to local variable "elem"(äš¨	
+Wjavascript:S1854­":Remove this useless assignment to local variable "maxsidx"(²‚µ¦
+\javascript:S1854“":Remove this useless assignment to local variable "minsidx"(õ¦ëÖûÿÿÿÿ
+\javascript:S1854¦":Remove this useless assignment to local variable "minpidx"(¢Ú£÷úÿÿÿÿ
+\javascript:S1854”":Remove this useless assignment to local variable "minpidx"(¢Ú£÷úÿÿÿÿ
+Wjavascript:S1854®":Remove this useless assignment to local variable "maxpidx"(Ÿ¯ÅÄ
+\javascript:S1854¥":Remove this useless assignment to local variable "minsidx"(õ¦ëÖûÿÿÿÿ
+Wjavascript:S1854œ":Remove this useless assignment to local variable "maxpidx"(Ÿ¯ÅÄ
+Wjavascript:S1854›":Remove this useless assignment to local variable "maxsidx"(²‚µ¦
+Xjavascript:S1854½"6Remove this useless assignment to local variable "dim"(¸ÍñÇúÿÿÿÿ
+Yjavascript:S1854å"7Remove this useless assignment to local variable "sidx"(¬ž«åüÿÿÿÿ
+Yjavascript:S1854Ö"7Remove this useless assignment to local variable "hctx"(¬´Ð¥ýÿÿÿÿ
