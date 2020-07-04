@@ -19,8 +19,8 @@ public class Login implements Task {
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(
                 Click.on(choucairLoginPage.LOGIN_BUTTON),
-                Enter.theValue("ciglesiasg").into(choucairLoginPage.INPUT_USER),
-                Enter.theValue("64C86YJDxt").into(choucairLoginPage.INPUT_PASSWORD),
+                Enter.theValue("usuario").into(choucairLoginPage.INPUT_USER),
+                Enter.theValue("contraseña").into(choucairLoginPage.INPUT_PASSWORD),
                 Click.on(choucairLoginPage.ENTER_BUTTON)
                 );
     }
